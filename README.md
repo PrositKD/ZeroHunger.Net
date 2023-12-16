@@ -1,6 +1,6 @@
 # ZeroHunger.Net
 # Zero Hunger Project
-
+![Admin]([relative/path/to/image.png)](https://github.com/PrositKD/ZeroHunger.Net/blob/main/Screenshot%20(146).png)
 This project aims to address the issue of food wastage by establishing a system that automates and tracks the activities of an NGO working to feed deprived people and children in Dhaka city. The system involves collaboration with restaurants to collect surplus food before it goes to waste and distribute it to those in need.
 
 ## Technologies Used
